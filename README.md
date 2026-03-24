@@ -10,10 +10,14 @@ Here's a brief list of the main features of this visual pack:
 Cirrus clouds are added to Kerbin, Duna, and Laythe to match the wispy, high altitude clouds seen on Earth and Mars
 ### Volumetric Aurorae
 Many planets (and a couple moons!) sport volumetric aurorae, visible from both the surface and in space
+<img width="1920" height="1080" alt="screenshot1867" src="https://github.com/user-attachments/assets/97d58a16-806a-47ce-b146-836faed2468f" />
+
 ### Surface Ambience
 All planets with atmospheres have dynamic surface ambience that may be biome dependent. From bird songs in Kerbin's grasslands, to distant thunderstorms on Eve, or strange noises deep in the oceans of Laythe.
 ### Volumetric Rings
 Jool and Dres now sport faint rings to allow for daring kerbals to dive in and see the rocks whizzing by. These rings have a faint haze and numerous chunks within.
+<img width="1920" height="1080" alt="screenshot1872" src="https://github.com/user-attachments/assets/c7662bf1-b3ad-41e4-b86c-b8ea02b7dde5" />
+
 ### Dynamic Weather
 All planets with atmosphere now sport rare dynamic weather events, from dense fog storms on Eve, to hurricanes and tornadoes on Kerbin, to global dust storms on Duna.
 <img width="1920" height="1080" alt="screenshot1880-1" src="https://github.com/user-attachments/assets/64d3d863-2db7-466d-8f5e-f7fdaa6f77d3" />
@@ -68,3 +72,4 @@ Other:
 - Geysers on Vall
 - Very faint aurorae on Tylo
 - Atmospheric haze on Eeloo (reminiscent of Pluto)
+
