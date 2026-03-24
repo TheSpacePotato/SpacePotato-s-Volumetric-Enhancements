@@ -19,7 +19,7 @@ All planets with atmosphere now sport rare dynamic weather events, from dense fo
 <img width="1920" height="1080" alt="screenshot1865" src="https://github.com/user-attachments/assets/c0c1654f-c4c4-4ff0-811a-18ed0ae491b6" />
 
 ## Full List of Additions
-### Eve:
+Eve:
 - Intermittent fog at low altitudes, partially obscuring a craft's view
 - Surface ambience (faint wind, distant thunder)
 - Ocean ambience (soft waves and underwater ambience)
@@ -27,7 +27,7 @@ All planets with atmosphere now sport rare dynamic weather events, from dense fo
 - Rarer lightning storms, where the fog gets especially thick and the only light at the surface is from frequent lightning
 - Blue aurorae
 
-### Kerbin:
+Kerbin:
 - Wispy cirrus clouds at high altitudes
 - Surface ambience (bird calls and breeze in grasslands, desert wind in the deserts)
 - Ocean ambience (waves and underwater whale calls)
@@ -35,7 +35,7 @@ All planets with atmosphere now sport rare dynamic weather events, from dense fo
 - Rare stormcells
 - Volumetric aurorae
 
-### Duna:
+Duna:
 - Very faint cirrus clouds at high altitudes
 - Surface ambience, including winds and sparse dust being blown
 - Lightning in Duna's large dust storm
@@ -45,12 +45,12 @@ All planets with atmosphere now sport rare dynamic weather events, from dense fo
 - Very faint volumetric aurorae
 - Meteor showers
 
-### Jool:
+Jool:
 - Adjusted the scatterer atmosphere to show the clouds better, looks more like KSP2 Jool now
 - Volumetric aurorae
 - Faint rings with volumetrics
 
-### Laythe:
+Laythe:
 - The skies are much cloudier and rainier
 - The surface is covered in a thick fog
 - Lots of light rain now
@@ -61,7 +61,7 @@ All planets with atmosphere now sport rare dynamic weather events, from dense fo
 - Volumetric polar aurorae
 - Global aurorae
 
-### Other:
+Other:
 - Volumetric rings on Dres
 - Geysers on Vall
 - Very faint aurorae on Tylo
