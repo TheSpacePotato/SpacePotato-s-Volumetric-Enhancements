@@ -10,6 +10,8 @@ With the addition of blackrack's True Volumetric Clouds, the door has been opene
 Here's a brief list of the main features of this visual pack:
 ### Cirrus Clouds
 Cirrus clouds are added to Kerbin, Duna, and Laythe to match the wispy, high altitude clouds seen on Earth and Mars
+<img width="1920" height="1080" alt="screenshot1807" src="https://github.com/user-attachments/assets/bb68d37e-21fe-4347-9f1f-50812211a23b" />
+
 ### Volumetric Aurorae
 Many planets (and a couple moons!) sport volumetric aurorae, visible from both the surface and in space
 <img width="1920" height="1080" alt="screenshot1867" src="https://github.com/user-attachments/assets/97d58a16-806a-47ce-b146-836faed2468f" />
