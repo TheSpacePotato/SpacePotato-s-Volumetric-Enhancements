@@ -17,3 +17,56 @@ Jool and Dres now sport faint rings to allow for daring kerbals to dive in and s
 ### Dynamic Weather
 All planets with atmosphere now sport rare dynamic weather events, from dense fog storms on Eve, to hurricanes and tornadoes on Kerbin, to global dust storms on Duna.
 <img width="1920" height="1080" alt="screenshot1865" src="https://github.com/user-attachments/assets/c0c1654f-c4c4-4ff0-811a-18ed0ae491b6" />
+
+## Full List of Additions
+EVE:
+- Intermittent fog at low altitudes, partially obscuring a craft's view
+- Surface ambience (faint wind, distant thunder)
+- Ocean ambience (soft waves and underwater ambience)
+- Rare explodium rain
+- Rarer lightning storms, where the fog gets especially thick and the only light at the surface is from frequent lightning
+- Blue aurorae
+
+KERBIN:
+- Wispy cirrus clouds at high altitudes
+- Surface ambience (bird calls and breeze in grasslands, desert wind in the deserts)
+- Ocean ambience (waves and underwater whale calls)
+- 3 different hurricanes that show up infrequently, with their own ambience and much heavier rain
+- Rare stormcells
+- Volumetric aurorae
+- Rare meteor showers (TBA)
+
+DUNA:
+- Very faint cirrus clouds at high altitudes
+- Surface ambience, including winds and sparse dust being blown
+- Lightning in Duna's large dust storm
+- Rare global dust clouds
+- Dust devils
+- Ice fog
+- Very faint aurorae
+
+JOOL:
+- Adjusted the scatterer atmosphere to show the clouds better, looks more like KSS2 Jool now
+- Volumetric aurorae
+- Faint rings with volumetrics
+
+LAYTHE:
+- The skies are much cloudier and rainier
+- The surface is covered in a thick fog
+- Lots of rain now
+- Thick clouds and fog will fade away for part of Laythe's year to clear up the skies
+- Wispy cirrus clouds at higher altitudes
+- Surface ambience (very breezy)
+- Ocean ambience, plenty of waves (maybe something lurks below the waves?)
+- Waterspouts
+- Volumetric polar aurorae
+- Global aurorae
+- Meteor showers (TBA)
+
+OTHER:
+- Volumetric rings on Dres
+- Geysers on Vall
+- Very faint aurorae on Tylo
+- Atmospheric haze on Eeloo (reminiscent of Pluto)
+
+Initial release should hopefully be coming within the coming weeks as most of what I have left is a few remaining features and texture fixes
