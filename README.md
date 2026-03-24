@@ -8,7 +8,7 @@ Cirrus clouds are added to Kerbin, Duna, and Laythe to match the wispy, high alt
 ### Volumetric Aurorae
 Many planets (and a couple moons!) sport volumetric aurorae, visible from both the surface and in space
 ### Surface Ambience
-All planets with atmospheres have dynamic surface ambience that may be biome dependent. From bird songs in Kerbin's grasslands, to distant thunderstorms on Eve, or deep in the oceans of Laythe.
+All planets with atmospheres have dynamic surface ambience that may be biome dependent. From bird songs in Kerbin's grasslands, to distant thunderstorms on Eve, or strange noises deep in the oceans of Laythe.
 ### Volumetric Rings
 Jool and Dres now sport faint rings to allow for daring kerbals to dive in and see the rocks whizzing by. These rings have a faint haze and numerous chunks within.
 ### Dynamic Weather
