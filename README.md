@@ -1,5 +1,6 @@
 # SpacePotato-s-Volumetric-Enhancements
-![Uploading screenshot1736.png…]()
+<img width="1920" height="1080" alt="screenshot1736" src="https://github.com/user-attachments/assets/ec691ce1-e622-4390-a178-6f5e4cf54482" />
+
 
 With the addition of blackrack's True Volumetric Clouds, the door has been opened for KSP to have a variety of dynamic weather features. SpacePotato's Volumetric Enhancements (SPVE) aims to add more life to the KSP planets by adding additional features on top of the existing clouds to not only improve sightseeing but also to add additional challenges.
 
