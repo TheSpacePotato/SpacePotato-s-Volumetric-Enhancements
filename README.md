@@ -18,6 +18,8 @@ Many planets (and a couple moons!) sport volumetric aurorae, visible from both t
 
 ### Surface Ambience
 All planets with atmospheres have dynamic surface ambience that may be biome dependent. From bird songs in Kerbin's grasslands, to distant thunderstorms on Eve, or strange noises deep in the oceans of Laythe.
+<img width="1920" height="1080" alt="screenshot1866-1" src="https://github.com/user-attachments/assets/8849e9ed-1ecc-4506-b572-be10498d6828" />
+
 ### Volumetric Rings
 Jool and Dres now sport faint rings to allow for daring kerbals to dive in and see the rocks whizzing by. These rings have a faint haze and numerous chunks within.
 <img width="1920" height="1080" alt="screenshot1872" src="https://github.com/user-attachments/assets/c7662bf1-b3ad-41e4-b86c-b8ea02b7dde5" />
@@ -25,8 +27,6 @@ Jool and Dres now sport faint rings to allow for daring kerbals to dive in and s
 ### Dynamic Weather
 All planets with atmosphere now sport rare dynamic weather events, from dense fog storms on Eve, to hurricanes and tornadoes on Kerbin, to global dust storms on Duna.
 <img width="1920" height="1080" alt="screenshot1880-1" src="https://github.com/user-attachments/assets/64d3d863-2db7-466d-8f5e-f7fdaa6f77d3" />
-
-<img width="1920" height="1080" alt="screenshot1865" src="https://github.com/user-attachments/assets/c0c1654f-c4c4-4ff0-811a-18ed0ae491b6" />
 
 ## Full List of Additions
 Eve:
@@ -77,4 +77,14 @@ Other:
 - Very faint aurorae on Tylo
 - Atmospheric haze on Eeloo (reminiscent of Pluto)
 
-<img width="1920" height="1080" alt="screenshot1866" src="https://github.com/user-attachments/assets/d05d6f05-db7d-490c-b7ef-27c565e825c0" />
+<img width="1920" height="1080" alt="screenshot1865" src="https://github.com/user-attachments/assets/c0c1654f-c4c4-4ff0-811a-18ed0ae491b6" />
+
+
+
+
+
+
+
+
+
+
