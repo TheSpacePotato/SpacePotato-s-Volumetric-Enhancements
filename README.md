@@ -79,6 +79,18 @@ Other:
 
 <img width="1920" height="1080" alt="screenshot1865" src="https://github.com/user-attachments/assets/c0c1654f-c4c4-4ff0-811a-18ed0ae491b6" />
 
+## Credit
+- StarCrusher96, for both the Laythe cloud textures and all the help over the years
+- SPACEMAN, beta testing
+- Chaotic Protocol, beta testing
+
+## License
+This mod is licensed under CC BY-NC 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
+Assets can be reused in other non-commercial works so long as credit is given.
+If you want to use this mod for yours, I'd love to know!
+
+
 
 
 
