@@ -34,7 +34,7 @@ Eve:
 - Surface ambience (faint wind, distant thunder)
 - Ocean ambience (soft waves and underwater ambience)
 - Rare explodium rain
-- Rarer lightning storms, where the fog gets especially thick and the only light at the surface is from frequent lightning
+- Rarer lightning storms, where the fog gets extremely thick and the only light at the surface is from frequent lightning
 - Blue aurorae
 
 Kerbin:
@@ -42,7 +42,7 @@ Kerbin:
 - Surface ambience (bird calls and breeze in grasslands, desert wind in the deserts)
 - Ocean ambience (waves and underwater whale calls)
 - 3 different hurricanes that show up infrequently, with their own ambience and much heavier rain
-- Rare stormcells
+- Rare stormcells, either with tornadoes or hail storms
 - Volumetric aurorae
 
 Duna:
@@ -59,7 +59,7 @@ Jool:
 - Adjusted the scatterer atmosphere to show the clouds better, looks more like KSP2 Jool now
 - Volumetric aurorae
 - Faint rings with volumetrics
-- Ambient effects in the atmosphere
+- Ambient sounds in the atmosphere
 
 Laythe:
 - The skies are much cloudier and rainier
