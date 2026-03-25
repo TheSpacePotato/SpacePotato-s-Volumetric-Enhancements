@@ -59,6 +59,7 @@ Jool:
 - Adjusted the scatterer atmosphere to show the clouds better, looks more like KSP2 Jool now
 - Volumetric aurorae
 - Faint rings with volumetrics
+- Ambient effects in the atmosphere
 
 Laythe:
 - The skies are much cloudier and rainier
