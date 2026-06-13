@@ -14,7 +14,7 @@ Cirrus clouds are added to Kerbin, Duna, and Laythe to match the wispy, high alt
 
 ### Volumetric Aurorae
 Many planets (and a couple moons!) sport volumetric aurorae, visible from both the surface and in space
-<img width="1920" height="1080" alt="screenshot1867" src="https://github.com/user-attachments/assets/97d58a16-806a-47ce-b146-836faed2468f" />
+<img width="1920" height="1080" alt="screenshot1980" src="https://github.com/user-attachments/assets/9f02e6db-34ee-4e2f-8f3b-1fa5ea7fdf76" />
 
 ### Surface Ambience
 All planets with atmospheres have dynamic surface ambience that may be biome dependent. From bird songs in Kerbin's grasslands, to distant thunderstorms on Eve, or strange noises deep in the oceans of Laythe.
